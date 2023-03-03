@@ -48,16 +48,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             논문리뷰
-    url:               /논문리뷰/
-  - title:             대학원 석사과정 수업
-    url:               /대학원 석사과정 수업/
-#   - title:             빅데이터
+  - title:             블로그
+    url:               /블로그/
+#   - title:             대학원 석사과정 수업
+#     url:               /대학원 석사과정 수업/
+# #   - title:             빅데이터
 #     url:               /빅데이터/
 #   - title:             머신러닝
 #     url:               /머신러닝/
-  - title:             ADP자격증&기타
-    url:               /ADP자격증&기타/
+#   - title:             ADP자격증&기타
+#     url:               /ADP자격증&기타/
   - title:             About
     url:               /about/
 
