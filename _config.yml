@@ -48,10 +48,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
+  - title:             논문리뷰
+    url:               /논문리뷰/
+  - title:             데이터마이닝
+    url:               /데이터마이닝수업/
+  - title:             빅데이터
+    url:               /빅데이터/
+  - title:             머신러닝
+    url:               /머신러닝/
+  - title:             ADP자격증
+    url:               /ADP자격증/
   - title:             About
     url:               /about/
 
