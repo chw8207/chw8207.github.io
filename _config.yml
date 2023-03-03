@@ -56,8 +56,8 @@ menu:
 #     url:               /빅데이터/
 #   - title:             머신러닝
 #     url:               /머신러닝/
-  - title:             ADP자격증
-    url:               /ADP자격증/
+  - title:             ADP자격증&기타
+    url:               /ADP자격증&기타/
   - title:             About
     url:               /about/
 
