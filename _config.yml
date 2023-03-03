@@ -20,7 +20,7 @@
 lang:                  ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 데린이의 일기장
+title:                 데린이의 
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -50,12 +50,12 @@ author:
 menu:
   - title:             논문리뷰
     url:               /논문리뷰/
-  - title:             데이터마이닝
-    url:               /데이터마이닝수업/
-  - title:             빅데이터
-    url:               /빅데이터/
-  - title:             머신러닝
-    url:               /머신러닝/
+  - title:             대학원 석사과정 수업
+    url:               /대학원 석사과정 수업/
+#   - title:             빅데이터
+#     url:               /빅데이터/
+#   - title:             머신러닝
+#     url:               /머신러닝/
   - title:             ADP자격증
     url:               /ADP자격증/
   - title:             About
