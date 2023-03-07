@@ -50,8 +50,8 @@ author:
 menu:
   - title:             블로그
     url:               /블로그/
-#   - title:             대학원 석사과정 수업
-#     url:               /대학원 석사과정 수업/
+  - title:             논문리뷰
+    url:               /논문리뷰/
 # #   - title:             빅데이터
 #     url:               /빅데이터/
 #   - title:             머신러닝
