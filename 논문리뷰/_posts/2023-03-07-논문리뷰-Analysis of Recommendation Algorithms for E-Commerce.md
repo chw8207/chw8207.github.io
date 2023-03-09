@@ -36,4 +36,7 @@ E-Commerce는 우리말로 하면 '전자 상거래'라는 뜻으로 대표적�
 이번 논문에서 다룰 내용은 크게 두 가지로 나눠서 볼 수 있습니다.
 - 서로 다른 추천시스템에 대한 체계적인 실험적 평가를 제공
 - E-commerce에서 흔한 희귀한 데이터에 맞는 새로운 알고리즘 개발
+
+이번 논문에서 사용한 데이터셋은 **대형 E-Commerce(Fingerhut Coperations )**와
+연구자가 직접 개발한 **[자체 추천리스템 리서치 사이트(MovieLens)](www.movielens.umn.edu)**입니다.
 ## Ready for the Big Screen
