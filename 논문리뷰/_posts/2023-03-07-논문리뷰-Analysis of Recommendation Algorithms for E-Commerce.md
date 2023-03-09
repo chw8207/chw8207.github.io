@@ -21,6 +21,6 @@ sitemap: false
 추천시스템 논문에 본격적으로 들어가기에 앞서 서론 부분에 대해 살펴보겠습니다. 
 요즈음 일상에서 우리는 E-Commerce라는 용어를 자주 접한다는 것을 많이 느끼실텐데요.
 E-Commerce는 우리말로 하면 '전자 상거래'라는 뜻으로 대표적인 사이트로는 
-아마존(Amazon, #https://www.amazon.com/)이 있습니다.
+아마존[https://www.amazon.com/](#Amazon)이 있습니다.
 
 ## Ready for the Big Screen
