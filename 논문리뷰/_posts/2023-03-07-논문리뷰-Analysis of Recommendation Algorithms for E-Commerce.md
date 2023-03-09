@@ -19,7 +19,8 @@ sitemap: false
 ## Introduction(서론)
 
 추천시스템 논문에 본격적으로 들어가기에 앞서 서론 부분에 대해 살펴보겠습니다. 
-우리는 한 번쯤 이커머스(E-commerce)라는 용어를 들어보았습니다. 이커머스 사이트에서는 
-수백만 가지의 상품을 고객에게 제공하고 있습니다.
+요즈음 일상에서 우리는 E-Commerce라는 용어를 자주 접한다는 것을 많이 느끼실텐데요.
+E-Commerce는 우리말로 하면 '전자 상거래'라는 뜻으로 대표적인 사이트로는 
+아마존(Amazon, #https://www.amazon.com/)이 있습니다.
 
 ## Ready for the Big Screen
