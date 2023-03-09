@@ -15,7 +15,7 @@ sitemap: false
 
 - Table of Contents
 {:toc .large-only} -->
-## Introduction(서론)
+# Introduction(서론)
 
 추천시스템 논문에 본격적으로 들어가기에 앞서 서론 부분에 대해 살펴보겠습니다. 
 요즈음 일상에서 우리는 E-Commerce라는 용어를 자주 접한다는 것을 많이 느끼실텐데요.
