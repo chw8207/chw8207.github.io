@@ -106,3 +106,9 @@ E-Commerce 사이트에서 적용되는 데이터마이닝 방법 중 **연관�
 여러 알고리즘을 활용하고 있습니다. 앞에서 언급하였듯이 협업 필터링 방법을
 세 가지로 나눠서 살펴보려고 합니다. 
 ##### 1. representation
+
+representation에서는 **행렬**과 관련된 내용이 등장하게 됩니다. 먼저, 논문에서
+**original representation**이라는 내용이 등장하였습니다. original representation은
+**고객-제품 행렬(m x n)**을 나타내며, 고객이 물건을 구매하면 1, 구매하지 않으면 0으로
+채워지는 행렬입니다. 이러한 original representation이 가지고 있는 문제점은 3가지가 있으며,
+아래에서 각각에 대해 살펴보도록 하겠습니다.
