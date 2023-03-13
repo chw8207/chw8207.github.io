@@ -52,8 +52,8 @@ menu:
     url:               /블로그/
   - title:             논문리뷰
     url:               /논문리뷰/
-# #   - title:             빅데이터
-#     url:               /빅데이터/
+  - title:             머신러닝_김민경교수님
+    url:               /머신러닝_김민경교수님/
 #   - title:             머신러닝
 #     url:               /머신러닝/
 #   - title:             ADP자격증&기타
