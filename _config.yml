@@ -54,8 +54,8 @@ menu:
     url:               /논문리뷰/
   - title:             머신러닝(김민경교수님)
     url:               /머신러닝-김민경교수님/
-#   - title:             머신러닝
-#     url:               /머신러닝/
+  - title:             데이터마이닝(최일영교수님)
+    url:               /데이터마이닝-최일영교수님/
 #   - title:             ADP자격증&기타
 #     url:               /ADP자격증&기타/
 #   - title:             About
