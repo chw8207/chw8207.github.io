@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: 데이터마이닝(최일영교수님)
+title: 머신러닝(김민경교수님)
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: 
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  최일영교수님의  수업 내용을 정리한 곳입니다.
+  김민경교수님의 머신러닝 수업 내용을 정리한 곳입니다.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
